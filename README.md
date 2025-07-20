@@ -69,6 +69,7 @@
   - 객체의 `bbox 좌표`, `class`, `confidence score`
   - 예측 결과는 `.csv` 형태로 제출
 
+> 📏 **Evaluation Metric**: `mAP50`
 ---
 
 ## 🚀 최종 사용 모델
