@@ -25,12 +25,12 @@
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b17ce868-5498-4acf-8831-31829f8f7cbd" width="150px;" alt="서승환"/><br />
       <b>서승환</b><br />
-      프로젝트 총괄, <br />Cascade R-CNN & ATSS 실험, <br />Cross Validation 구성
+      PM, <br />Cascade R-CNN & ATSS 실험, <br />Cross Validation 구성
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7c44b0c5-927a-4c65-8d21-8e240bcf1618" width="150px;" alt="강대민"/><br />
       <b>강대민</b><br />
-      Streamlit 앱 개발, <br />MMDetection3 구성, <br />YOLOv8/11, DETR 실험
+      Streamlit 앱 개발, <br />YOLOv11, DETR 실험
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/fc431d0d-51d5-4774-b900-67bc6a2bb2b5" width="150px;" alt="김홍주"/><br />
@@ -75,11 +75,11 @@
 
 본 프로젝트에서는 다양한 최신 모델을 실험 후, 다음 모델들을 최종 채택하여 성능을 극대화했습니다:
 
-- 📷 **Cascade R-CNN**
-- ⚡ **YOLO v11**
-- 🎯 **ATSS**
-- 🧩 **Co-DETR**
-- 🦖 **DINO**
+-  **Cascade R-CNN**
+-  **YOLO v11**
+-  **ATSS**
+-  **Co-DETR**
+-  **DINO**
 
 ---
 
