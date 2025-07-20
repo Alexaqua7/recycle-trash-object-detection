@@ -118,21 +118,7 @@ pip install -r requirements.txt
 ## 🏋️‍♂️ 모델 학습 예시
 
 ```bash
-python train.py \
-  --traindata_dir ./data/train \
-  --traindata_info_file ./data/train.csv \
-  --save_result_path ./train_result \
-  --log_dir ./logs \
-  --val_split 0.2 \
-  --transform_type albumentations \
-  --batch_size 64 \
-  --model_type timm \
-  --model_name eva02_large_patch14_448.mim_m38m_ft_in22k_in1k \
-  --pretrained True \
-  --learning_rate 0.001 \
-  --epochs_per_lr_decay 2 \
-  --scheduler_gamma 0.1 \
-  --epochs 5
+python train.py
 ```
 
 > 💡 하이퍼파라미터는 자유롭게 조정 가능합니다.
